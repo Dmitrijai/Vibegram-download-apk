@@ -13,7 +13,7 @@
 
 ---
 
-## 🇷🇺 Ru:
+## 🇷🇺:
 
 🌐 **Веб-версия:**
 [https://dmitrijai.github.io/Vibegram-PRO/](https://dmitrijai.github.io/Vibegram-PRO/)
