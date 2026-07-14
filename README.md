@@ -7,7 +7,7 @@
 
 💬 If you find any bugs or want to suggest additions, please contact technical support. You can find the link to the support chat in the Vibegram settings under the "Additional" section.
 
-> 🧠 The Vibegram messenger was built using Gemini 3.1 Pro in Google AI Studio.
+> 🧠 The Vibegram messenger was built using Gemini 3.1 Pro in Google AI Studio. It seems to work everywhere without a VPN!
 > 
 > ⚙️ It is integrated with the following services: `Google Console`, `Render`, `Cloudinary`, `Supabase`, `Hugging Face`, `Cron-job.org`, and `Firebase`.
 
@@ -24,6 +24,6 @@
 
 💬 Если вы обнаружите ошибки или захотите предложить улучшения, пожалуйста, свяжитесь со службой технической поддержки. Ссылку на чат поддержки можно найти в настройках Vibegram, в разделе «Дополнительно».
 
-> 🧠 Мессенджер Vibegram был создан с использованием модели Gemini 3.1 Pro в Google AI Studio.
+> 🧠 Мессенджер Vibegram был создан с использованием модели Gemini 3.1 Pro в Google AI Studio. Работает без VPN вроде везде!
 > 
 > ⚙️ Он интегрирован со следующими сервисами: `Google Console`, `Render`, `Cloudinary`, `Supabase`, `Hugging Face`, `Cron-job.org` и `Firebase`.
